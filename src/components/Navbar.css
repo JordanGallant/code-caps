@@ -1,0 +1,13 @@
+.navbar__links-left {
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar__links-right {
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar__links {
+  padding-right: 24px;
+  padding-top: 10px;
+  font-size: 0.9rem;
+}
